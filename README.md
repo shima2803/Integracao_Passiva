@@ -1,4 +1,4 @@
-# Automação Alpheratz – Integração CPJWCS (Evento itp45
+# Automação Alpheratz – Integração CPJWCS (Evento itp45)
 
 
 Este projeto consiste em um robô desenvolvido em Python para automatizar o tratamento diário do evento itp45, integrando informações do banco CPJWCS com o sistema Alpheratz.
